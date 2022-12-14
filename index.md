@@ -15,8 +15,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal)
-[<img src="No Driver license needed to eat (1).png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="No Driver license needed to eat (1).png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal)
+My final write up for DoorDash marketing analysis.
 
 
 ---
